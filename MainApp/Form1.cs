@@ -16,5 +16,10 @@ namespace MainApp
         {
             InitializeComponent();
         }
+
+        private void btnCheckForUpdate_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
